@@ -18,7 +18,10 @@ bash tools/build_all.sh                  # re-renders every track (about 90 s)
 ```
 
 Renders are deterministic (each script uses a fixed random seed), so `build_all.sh`
-reproduces the committed OGGs exactly.
+reproduces the committed audio exactly: the WAV masters in `build/` are bit-identical. The OGG
+*files* still differ byte for byte after every encode, because Ogg gives each stream a random
+serial number, so git will show re-encoded OGGs as modified. Only commit an OGG whose track
+you actually changed, and restore the others with `git checkout -- '*.ogg'`.
 
 ## Repo layout
 
