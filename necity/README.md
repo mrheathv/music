@@ -1,5 +1,7 @@
 # NeCity: synthwave style guide
 
+**Soundtrack:** one shared soundtrack for both games below; NeCity gets a few extra tracks of its own later.
+
 **Games:** NeCity Lo-Fi (a gentle city builder about one small town; Mac Winter 2026, iPad
 Spring 2027) and NeCity, pronounced "Neon City" (a city builder whose streets light up in neon
 as they come alive).
@@ -31,11 +33,13 @@ tanh glue. Bass roots sit around 43–65 Hz; don't add a sub an octave below the
 | Neon Grid | `scripts/neon_grid.py` | A minor: Am F C G, Am F G G | 100 | 57.6 s | Approved direction (building theme 1) |
 | Skyline Rising | `scripts/skyline_rising.py` | D major: G A F♯m Bm, G A D D | 100 | 57.6 s | Building theme 2, awaiting feedback |
 | Neon Grid (Calm) | `scripts/neon_grid_calm.py` | as Neon Grid | 84 | 68.6 s | Optional: night or menus. Same chords, so it can crossfade |
+| Signal Lights | `scripts/signal_lights.py` | E minor: Em C Am B, Em C D B | 100 | 57.6 s | Building theme 3 (mysterious), awaiting feedback |
+| Afterglow | `scripts/afterglow.py` | D minor: Dm B♭ F C, Dm B♭ Gm A | 100 | 57.6 s | Night track: calm arrangement (half-time drums, held bass, darker pads) at 100 BPM. Awaiting feedback |
+| Neon Horizon | `scripts/neon_horizon.py` | as Neon Grid | 100 | 57.6 s | Menu theme: the Neon Grid melody with almost no drums. Awaiting feedback |
 
 ## Planned
 
-- A third building track (mysterious or triumphant mood).
-- A night track at the same tempo, darker and more minimal.
-- A menu theme, lighter on drums.
+- Building track 4 (triumphant).
 - A milestone sting, 5–10 seconds, for population tiers.
+- Extra tracks for the bigger NeCity game.
 - Stem exports for adaptive layering (quiet street to buzzing street).

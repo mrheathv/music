@@ -16,6 +16,9 @@ render() {  # render <script> <raw name> <output ogg> [ENV=VALUE]
 render necity/scripts/neon_grid.py        neon_grid_raw.wav       necity/tracks/neon_grid.ogg
 render necity/scripts/neon_grid_calm.py   neon_grid_calm_raw.wav  necity/tracks/neon_grid_calm.ogg
 render necity/scripts/skyline_rising.py   skyline_rising_raw.wav  necity/tracks/skyline_rising.ogg
+render necity/scripts/signal_lights.py    signal_lights_raw.wav   necity/tracks/signal_lights.ogg
+render necity/scripts/afterglow.py        afterglow_raw.wav       necity/tracks/afterglow.ogg
+render necity/scripts/neon_horizon.py     neon_horizon_raw.wav    necity/tracks/neon_horizon.ogg
 
 render alphapp/scripts/golden_hour.py     golden_hour_raw.wav     alphapp/tracks/golden_hour.ogg
 for v in bell vibe kalimba flute; do

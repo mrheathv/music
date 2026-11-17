@@ -13,6 +13,9 @@ audio is original. Every track is a seamless, game-ready loop.
 | NeCity | Neon Grid | Synthwave, moody, driving | A minor | 100 | 57.6 s | `necity/tracks/neon_grid.ogg` |
 | NeCity | Skyline Rising | Synthwave, hopeful | D major | 100 | 57.6 s | `necity/tracks/skyline_rising.ogg` |
 | NeCity | Neon Grid (Calm) | Dreamwave, relaxed | A minor | 84 | 68.6 s | `necity/tracks/neon_grid_calm.ogg` |
+| NeCity | Signal Lights | Synthwave, mysterious | E minor | 100 | 57.6 s | `necity/tracks/signal_lights.ogg` |
+| NeCity | Afterglow (night) | Synthwave, calm arrangement | D minor | 100 | 57.6 s | `necity/tracks/afterglow.ogg` |
+| NeCity | Neon Horizon (menu) | Atmospheric, Neon Grid theme | A minor | 100 | 57.6 s | `necity/tracks/neon_horizon.ogg` |
 | Alpha++ | Golden Hour | Ambient electronica | F major | 96 | 60.0 s | `alphapp/tracks/golden_hour.ogg` |
 | Alpha++ | Golden Hour (Warm) ×4 | Ambient electronica, warmer; melody voice: bell, vibe, kalimba or flute | F major | 96 | 60.0 s | `alphapp/tracks/golden_hour_warm_*.ogg` |
 

@@ -29,8 +29,9 @@ patterns that phase against each other evoke traffic, conveyors and schedules.
 | Golden Hour (Warm) | `scripts/golden_hour_warm.py` | same | 96 | Warmer mix (1–4 kHz about -3 dB). Four melody voices: `golden_hour_warm_{bell,vibe,kalimba,flute}.ogg` |
 
 Feedback so far: the FM bells were "just OK, not great", so vibe, kalimba and flute
-alternatives were made, and a final choice is pending. All four share an identical backing
-track, so they can rotate in-game as variations.
+alternatives were made. **Decision: rotate all of them.** Ship the variants as in-game
+variations (they share an identical backing track), and use a mix of vibe, kalimba and flute
+as melody voices across future Alpha++ tracks. Prefer them over the plain FM bell.
 
 Render one voice with `MELODY=vibe python3 alphapp/scripts/golden_hour_warm.py`.
 
